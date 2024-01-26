@@ -1,1 +1,1 @@
-alert("Prueba");
+alert("Suerte");
